@@ -1,20 +1,57 @@
-<h1 align="center">Hi 👋, I'm Sujal!</h1>
-<h3 align="center">Hey there! I'm Sujal, a passionate developer and tech enthusiast from Bhaktapur.</h3>
+<div align="center">
+  <img src="public/favicon.svg" width="50" height="50" alt="Logo"/>
+  <h2>Hey there, I'm Sujal</h1>
+  <p><em>Backend developer who enjoys building systems and understanding how things work under the hood.</em></p>
+  <p>From Bhaktapur, Nepal. Currently in India.</p>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrsu&label=Profile%20views&color=0e75b6&style=flat" alt="shrsu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrsu" alt="shrsu" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  I primarily work with <strong>Java & JavaScript</strong>, building backend services, APIs, and distributed systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrsu&show_icons=true&locale=en&layout=compact" alt="shrsu" /></p>
+<div align="center">
+  <h3>Languages & Tools</h1>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrsu&show_icons=true&locale=en" alt="shrsu" /></p>
+<p align="center">
+  <img src="public/java.svg" width="35" height="35" alt="Java" title="Java"/>
+  <img src="public/javascript.svg" width="35" height="35" alt="JavaScript" title="JavaScript"/>
+  <img src="public/typescript.svg" width="35" height="35" alt="TypeScript" title="TypeScript"/>
+  <img src="public/python.svg" width="35" height="35" alt="Python" title="Python"/>
+  <img src="public/springboot.svg" width="35" height="35" alt="Spring Boot" title="Spring Boot"/>
+  <img src="public/nodejs.svg" width="35" height="35" alt="Node.js" title="Node.js"/>
+  <img src="public/express.svg" width="35" height="35" alt="Express" title="Express"/>
+  <img src="public/react.svg" width="35" height="35" alt="React" title="React"/>
+  <img src="public/nextjs.svg" width="35" height="35" alt="Next.js" title="Next.js"/>
+  <img src="public/shadcn.svg" width="35" height="35" alt="shadcn/ui" title="shadcn/ui"/>
+  <img src="public/mongodb.svg" width="35" height="35" alt="MongoDB" title="MongoDB"/>
+  <img src="public/mysql.svg" width="35" height="35" alt="MySQL" title="MySQL"/>
+  <img src="public/cassandra.svg" width="35" height="35" alt="Cassandra" title="Cassandra"/>
+  <img src="public/elasticsearch.svg" width="35" height="35" alt="Elasticsearch" title="Elasticsearch"/>
+  <img src="public/Kafka.svg" width="35" height="35" alt="Kafka" title="Kafka"/>
+  <img src="public/docker.svg" width="35" height="35" alt="Docker" title="Docker"/>
+  <img src="public/git.svg" width="35" height="35" alt="Git" title="Git"/>
+  <img src="public/github.svg" width="35" height="35" alt="GitHub" title="GitHub"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrsu&" alt="shrsu" /></p>
+---
 
+<div align="center">
+  <h3>GitHub Stats</h1>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrsu&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://sujshrest-dev.vercel.app" target="_blank">
+      <img src="public/favicon.svg" width="24" height="24" alt="" align="center"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://sujshrest-dev.vercel.app" target="_blank">
+      <strong>Visit my portfolio</strong>
+  </a>
+</div>
