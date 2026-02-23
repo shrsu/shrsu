@@ -16,24 +16,23 @@
 </div>
 
 <p align="center">
-  <img src="public/java.svg" width="35" height="35" alt="Java" title="Java"/>
-  <img src="public/javascript.svg" width="35" height="35" alt="JavaScript" title="JavaScript"/>
-  <img src="public/typescript.svg" width="35" height="35" alt="TypeScript" title="TypeScript"/>
-  <img src="public/python.svg" width="35" height="35" alt="Python" title="Python"/>
-  <img src="public/springboot.svg" width="35" height="35" alt="Spring Boot" title="Spring Boot"/>
-  <img src="public/nodejs.svg" width="35" height="35" alt="Node.js" title="Node.js"/>
-  <img src="public/express.svg" width="35" height="35" alt="Express" title="Express"/>
-  <img src="public/react.svg" width="35" height="35" alt="React" title="React"/>
-  <img src="public/nextjs.svg" width="35" height="35" alt="Next.js" title="Next.js"/>
-  <img src="public/shadcn.svg" width="35" height="35" alt="shadcn/ui" title="shadcn/ui"/>
-  <img src="public/mongodb.svg" width="35" height="35" alt="MongoDB" title="MongoDB"/>
-  <img src="public/mysql.svg" width="35" height="35" alt="MySQL" title="MySQL"/>
-  <img src="public/cassandra.svg" width="35" height="35" alt="Cassandra" title="Cassandra"/>
-  <img src="public/elasticsearch.svg" width="35" height="35" alt="Elasticsearch" title="Elasticsearch"/>
-  <img src="public/Kafka.svg" width="35" height="35" alt="Kafka" title="Kafka"/>
-  <img src="public/docker.svg" width="35" height="35" alt="Docker" title="Docker"/>
-  <img src="public/git.svg" width="35" height="35" alt="Git" title="Git"/>
-  <img src="public/github.svg" width="35" height="35" alt="GitHub" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=java&perline=1" width="40" height="40" alt="Java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=js&perline=1" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts&perline=1" width="40" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=py&perline=1" width="40" height="40" alt="Python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=spring&perline=1" width="40" height="40" alt="Spring" title="Spring"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&perline=1" width="40" height="40" alt="Node.js" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express&perline=1" width="40" height="40" alt="Express" title="Express"/>
+  <img src="https://skillicons.dev/icons?i=react&perline=1" width="40" height="40" alt="React" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs&perline=1" width="40" height="40" alt="Next.js" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=mongodb&perline=1" width="40" height="40" alt="MongoDB" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql&perline=1" width="40" height="40" alt="MySQL" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=cassandra&perline=1" width="40" height="40" alt="Cassandra" title="Cassandra"/>
+  <img src="https://skillicons.dev/icons?i=elasticsearch&perline=1" width="40" height="40" alt="Elasticsearch" title="Elasticsearch"/>
+  <img src="https://skillicons.dev/icons?i=kafka&perline=1" width="40" height="40" alt="Kafka" title="Kafka"/>
+  <img src="https://skillicons.dev/icons?i=docker&perline=1" width="40" height="40" alt="Docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=git&perline=1" width="40" height="40" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github&perline=1" width="40" height="40" alt="GitHub" title="GitHub"/>
 </p>
 
 ---
