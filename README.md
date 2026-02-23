@@ -1,6 +1,6 @@
 <div align="center">
   <img src="public/favicon.svg" width="50" height="50" alt="Logo"/>
-  <h2>Hey there, I'm Sujal</h1>
+  <h1>Hey there, I'm Sujal</h1>
   <p><em>Backend developer who enjoys building systems and understanding how things work under the hood.</em></p>
   <p>From Bhaktapur, Nepal. Currently in India.</p>
 </div>
