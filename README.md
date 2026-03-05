@@ -50,7 +50,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://sujshrest-dev.vercel.app" target="_blank">
+  <a href="https://sujshrest.dev" target="_blank">
       <strong>Visit my portfolio</strong>
   </a>
 </div>
