@@ -1,10 +1,11 @@
 <div align="center">
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=D6A253&lines=Hey+There!;+I'm+Sujal!;" alt="Hey There! I'm Sujal!" />
-</h1>
-  <p><em>Backend developer who enjoys building systems and understanding how things work under the hood.</em></p>
-  <p>From Bhaktapur, Nepal. Currently based in India.</p>
+    <img align="center" src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=D6A253&lines=Hey+There!;+I'm+Sujal!;" alt="Hey There! I'm Sujal!" />
 </div>
+
+---
+
+  <p align="center"><em>Backend developer who enjoys building systems and understanding how things work under the hood.</em></p>
+  <p align="center">From Bhaktapur, Nepal. Currently based in India.</p>
 
 <p align="center">
   I work primarily with <strong>Java</strong> and <strong>JavaScript</strong>, building backend services, APIs, and distributed systems.
