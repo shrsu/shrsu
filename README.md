@@ -11,13 +11,6 @@
   I work primarily with <strong>Java</strong> and <strong>JavaScript</strong>, building backend services, APIs, and distributed systems.
 </p>
 
-<p align="center">
-  I'm currently a Software Engineering Intern at <strong>Optmyzr</strong>, where I build features for the Amazon Ads platform
-  across a full-stack C#/.NET and React codebase. Previously, at <strong>Lowe's India</strong>, I worked on enterprise-scale
-  backend systems, developer tools, and production services — which gave me practical exposure to how real-world software
-  is built and maintained.
-</p>
-
 ---
 
 <div align="center">
@@ -76,6 +69,16 @@
   <img src="public/github.svg" width="40" height="40" alt="GitHub" title="GitHub"/>&nbsp;&nbsp;
   <img src="public/docker.svg" width="40" height="40" alt="Docker" title="Docker"/>&nbsp;&nbsp;
   <img src="public/Kafka.svg" width="40" height="40" alt="Kafka" title="Kafka"/>
+</p>
+
+---
+
+
+<p align="center">
+  I'm currently a Software Engineering Intern at <strong>Optmyzr</strong>, where I build features for the Amazon Ads platform
+  across a full-stack C#/.NET and React codebase. Previously, at <strong>Lowe's India</strong>, I worked on enterprise-scale
+  backend systems, developer tools, and production services — which gave me practical exposure to how real-world software
+  is built and maintained.
 </p>
 
 ---
