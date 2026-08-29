@@ -11,6 +11,13 @@
   I work primarily with <strong>Java</strong> and <strong>JavaScript</strong>, building backend services, APIs, and distributed systems.
 </p>
 
+<p align="center">
+  I'm currently a Software Engineering Intern at <strong>Optmyzr</strong>, where I build features for the Amazon Ads platform
+  across a full-stack C#/.NET and React codebase. Previously, at <strong>Lowe's India</strong>, I worked on enterprise-scale
+  backend systems, developer tools, and production services — which gave me practical exposure to how real-world software
+  is built and maintained.
+</p>
+
 ---
 
 <div align="center">
@@ -73,19 +80,9 @@
 
 ---
 
-
-<p align="center">
-  I'm currently a Software Engineering Intern at <strong>Optmyzr</strong>, where I build features for the Amazon Ads platform
-  across a full-stack C#/.NET and React codebase. Previously, at <strong>Lowe's India</strong>, I worked on enterprise-scale
-  backend systems, developer tools, and production services — which gave me practical exposure to how real-world software
-  is built and maintained.
-</p>
-
----
-
 <div align="center">
   <h3>GitHub Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrsu&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=shrsu&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
